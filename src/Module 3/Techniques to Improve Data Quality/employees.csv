@@ -1,0 +1,6 @@
+EmployeeID,Name,Age,Email,Salary,JoinDate
+101,Alice,25,alice@example.com,50000.0,2023/01/01
+102,Bob,30,bob@work.com,60000.0,2023-02-15
+103,Charlie,28,charlie@demo.com,55000.0,15-03-2023
+104,David,-1,david@test,70000.0,2023.04.20
+105,Eva,45,eva@example.com,,"May 5, 2023"

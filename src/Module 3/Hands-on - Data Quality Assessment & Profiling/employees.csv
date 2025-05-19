@@ -1,0 +1,6 @@
+EmployeeID,Age,Salary,Department
+101,25.0,50000.0,HR
+102,30.0,,Finance
+103,,55000.0,IT
+104,28.0,70000.0,Marketing
+105,45.0,60000.0,
