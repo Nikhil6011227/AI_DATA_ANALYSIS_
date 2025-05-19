@@ -1,0 +1,9 @@
+CustomerID,Name,Email,Phone,Country
+1,Alice,alice@example.com,123-456-7890,USA
+2,Bob,bob@example.com,234-567-8901,Canada
+3,Charlie,charlie@example.com,,USA
+4,Daisy,,345-678-9012,UK
+5,Eve,eve@example.com,456-789-0123,Canada
+6,Frank,bob@example.com,234-567-8901,Canada
+7,Grace,grace@example.com,567-890-1234,USA
+8,Hank,,,
