@@ -1,0 +1,10 @@
+2025-05-21 14:46:15,498 - INFO - Loaded initial dataset.
+2025-05-21 14:46:15,502 - INFO - Filled missing values in 'Age' with mean.
+2025-05-21 14:46:15,507 - INFO - Filled missing values in 'Salary' with median.
+2025-05-21 14:46:15,510 - INFO - Applied Min-Max scaling to 'Age'.
+2025-05-21 14:46:15,516 - INFO - Saved imputer and scaler objects to disk.
+2025-05-21 14:46:23,056 - INFO - Loaded initial dataset.
+2025-05-21 14:46:23,062 - INFO - Filled missing values in 'Age' with mean.
+2025-05-21 14:46:23,065 - INFO - Filled missing values in 'Salary' with median.
+2025-05-21 14:46:23,067 - INFO - Applied Min-Max scaling to 'Age'.
+2025-05-21 14:46:23,070 - INFO - Saved imputer and scaler objects to disk.
