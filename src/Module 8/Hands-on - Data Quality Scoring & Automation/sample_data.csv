@@ -1,0 +1,6 @@
+CustomerID,Name,Email,Age
+101,Alice,alice@example.com,25
+102,Bob,bob@example.com,30
+103,Charlie,,17
+104,David,david@example.com,40
+102,Eve,eve@example.com,22
