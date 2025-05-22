@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/990983390180359690/03143f64eb434de0af27c1d3c77259bc/artifacts
+end_time: 1747931966403
+entry_point_name: ''
+experiment_id: '990983390180359690'
+lifecycle_stage: active
+run_id: 03143f64eb434de0af27c1d3c77259bc
+run_name: dashing-dove-970
+run_uuid: 03143f64eb434de0af27c1d3c77259bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747931956654
+status: 3
+tags: []
+user_id: vscode
