@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/292344959021820077/6594715422c846058c75dbdddcef89d3/artifacts
+end_time: 1747933532102
+entry_point_name: ''
+experiment_id: '292344959021820077'
+lifecycle_stage: active
+run_id: 6594715422c846058c75dbdddcef89d3
+run_name: sassy-ant-530
+run_uuid: 6594715422c846058c75dbdddcef89d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747933529129
+status: 3
+tags: []
+user_id: vscode
