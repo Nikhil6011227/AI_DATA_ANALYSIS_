@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/292344959021820077/ad65fedfe2ed459588b53b1c5d47501c/artifacts
+end_time: 1747933033299
+entry_point_name: ''
+experiment_id: '292344959021820077'
+lifecycle_stage: active
+run_id: ad65fedfe2ed459588b53b1c5d47501c
+run_name: bittersweet-mole-110
+run_uuid: ad65fedfe2ed459588b53b1c5d47501c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747933029831
+status: 3
+tags: []
+user_id: vscode

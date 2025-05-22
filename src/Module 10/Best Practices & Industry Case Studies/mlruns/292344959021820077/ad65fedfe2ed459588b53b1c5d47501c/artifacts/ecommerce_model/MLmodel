@@ -1,0 +1,21 @@
+artifact_path: ecommerce_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.22.0
+model_size_bytes: 3460973
+model_uuid: 8b2e1a176a2345e1aa88c53e0b62758b
+prompts: null
+run_id: ad65fedfe2ed459588b53b1c5d47501c
+utc_time_created: '2025-05-22 16:57:10.069066'

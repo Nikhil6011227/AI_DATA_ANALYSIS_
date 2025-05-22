@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/292344959021820077/6b5f01d3b2e9499ba109b25c0828d93f/artifacts
+end_time: 1747933036323
+entry_point_name: ''
+experiment_id: '292344959021820077'
+lifecycle_stage: active
+run_id: 6b5f01d3b2e9499ba109b25c0828d93f
+run_name: abundant-crow-168
+run_uuid: 6b5f01d3b2e9499ba109b25c0828d93f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747933033309
+status: 3
+tags: []
+user_id: vscode
