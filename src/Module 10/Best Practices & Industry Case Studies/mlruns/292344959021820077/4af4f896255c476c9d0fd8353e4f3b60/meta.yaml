@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/292344959021820077/4af4f896255c476c9d0fd8353e4f3b60/artifacts
+end_time: 1747932613839
+entry_point_name: ''
+experiment_id: '292344959021820077'
+lifecycle_stage: active
+run_id: 4af4f896255c476c9d0fd8353e4f3b60
+run_name: receptive-shark-908
+run_uuid: 4af4f896255c476c9d0fd8353e4f3b60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747932609899
+status: 3
+tags: []
+user_id: vscode
