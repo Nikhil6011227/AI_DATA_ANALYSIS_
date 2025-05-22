@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/AI_DATA_ANALYSIS_/src/Module%2010/Best%20Practices%20%26%20Industry%20Case%20Studies/mlruns/383183984675587564/c5b617153665476c93714eac461762a7/artifacts
+end_time: 1747932305009
+entry_point_name: ''
+experiment_id: '383183984675587564'
+lifecycle_stage: active
+run_id: c5b617153665476c93714eac461762a7
+run_name: persistent-wolf-83
+run_uuid: c5b617153665476c93714eac461762a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747932301523
+status: 3
+tags: []
+user_id: vscode
